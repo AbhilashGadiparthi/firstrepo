@@ -1,9 +1,5 @@
 M Mole
 N Newt
-<<<<<<< HEAD
-O Onager
-=======
-O Ocelot
->>>>>>> b8a2735de61eea56f55e13251b81841a3a7497e1
+O owl
 P Panda
-T Tapir
+T Tahr
