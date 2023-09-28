@@ -1,5 +1,5 @@
 M Mole
 N Newt
-O Onager
-P Panda
+O abhilash
+P pandu
 T Tapir
